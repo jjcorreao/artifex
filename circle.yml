@@ -1,5 +1,5 @@
 machine:
  python:
-  version: 2.7.10
+  version: 2.7.9
  environment:
   workdir: 1
