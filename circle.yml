@@ -3,3 +3,8 @@ machine:
   version: 2.7.9
  environment:
   workdir: 1
+ services:
+  mongodb
+  rabbitmq
+  redis
+  postgres
