@@ -4,6 +4,6 @@ machine:
  environment:
   workdir: 1
  services:
-  mongodb
-  redis
-  postgres
+   - mongodb
+   - redis
+   - postgres
