@@ -4,7 +4,7 @@ machine:
  environment:
   workdir: 1
  services:
-  mongodb
-  rabbitmq
-  redis
-  postgres
+  - mongodb
+  - rabbitmq
+  - redis
+  - postgres
