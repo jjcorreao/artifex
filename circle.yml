@@ -6,4 +6,3 @@ machine:
  services:
    - mongodb
    - redis
-   - postgres
